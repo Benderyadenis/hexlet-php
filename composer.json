@@ -1,0 +1,15 @@
+{
+    "name": "benderya/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "Benderya\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "d.benderya",
+            "email": "benderyadenis@gmail.com"
+        }
+    ],
+    "require": {}
+}
